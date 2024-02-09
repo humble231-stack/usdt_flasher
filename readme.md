@@ -51,4 +51,4 @@ Flash USDT understands the significance of trust in the decentralized finance (D
 
 ANY CRYPTOS ALLOWED - JUST NO SHITCOINS
 
-CONTACT ADMIN : TELEGRAM @totallynotcomp
+[ADMIN ON TELEGRAM](t.me/totallynotcomp)
