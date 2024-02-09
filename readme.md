@@ -27,11 +27,14 @@ Flash USDT understands the significance of trust in the decentralized finance (D
 
  ## USDT
   FLASH 3K - 100$
+  
   FLASH 5K - 125$
+  
   FLASH 10K - 140$
 
  ## BTC
   FLASH 0.002 - 150$
+  
   FLASH 0.05 - 500$
 
  ## ETH / OTHERS
