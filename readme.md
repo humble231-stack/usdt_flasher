@@ -42,8 +42,11 @@ Flash USDT understands the significance of trust in the decentralized finance (D
  
  ## SOFTWARE
    7D - 200$
+   
    30D - 400$
+   
    360D - 1000$
+   
    PERM - 3000$
 
 ANY CRYPTOS ALLOWED - JUST NO SHITCOINS
